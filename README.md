@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-(https://github.com/shubhajit17/shubhajit17/blob/main/coder-3462295-2895977-1514738893.png)
+![](coder-3462295-2895977-1514738893.png)
 
 ## Summary
 
