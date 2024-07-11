@@ -1,16 +1,41 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
+
+(https://path-to-your-gif-image.gif)
+
+## Summary
+
+🌟 **IT Security Specialist** with over 9 years of experience in **Cybersecurity**, **Cloud Infrastructure**, and **System Administration**. Specialized in **Linux** with extensive experience exceeding 3 years each in **Cloud Platforms**, **Security Information and Event Management (SIEM)**, **Vulnerability Management**, and **Security**. Passionate about leveraging technology to enhance security and efficiency.
+
+## Technology Domains
+
+### Cloud Platforms
+ ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+ ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+
+### Operating Systems & Administration
+ ![Linux](https://img.icons8.com/color/48/000000/linux--v1.png)
+ ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
+ ![macOS](https://img.icons8.com/color/48/000000/mac-os.png)
+
+## Education
+
+- **Bachelor of Computer Applications (BCA)** - Indira Gandhi National Open University
 
 <!--
-**shubhajit17/shubhajit17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+Check out my repositories to see my latest projects! [GitHub Repositories](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ## Blog
+
+Read my articles and tutorials on [Dev.io](https://dev.to/) and [Hashnode](https://hashnode.com/). 
+
 -->
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+## Learning
+
+Currently learning **Git** and **Terraform**.
