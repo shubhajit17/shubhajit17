@@ -21,7 +21,7 @@
 
 - **Bachelor of Computer Applications (BCA)** - Indira Gandhi National Open University
 
-<!--
+
 ## Projects
 
 Check out my repositories to see my latest projects! [GitHub Repositories](#)
@@ -30,12 +30,13 @@ Check out my repositories to see my latest projects! [GitHub Repositories](#)
 
 Read my articles and tutorials on [Dev.io](https://dev.to/) and [Hashnode](https://hashnode.com/). 
 
--->
+
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
+<!--
 ## Learning
 
 Currently learning **Git** and **Terraform**.
+-->
