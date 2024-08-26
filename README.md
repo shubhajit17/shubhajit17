@@ -28,7 +28,7 @@ Check out my repositories to see my latest projects! [GitHub Repositories](#)
 
  ## Blog
 
-Read my articles and tutorials on [Dev.io](https://dev.to/) and [Hashnode](https://hashnode.com/). 
+Read my articles and tutorials on [Hashnode](https://hashnode.com/). 
 
 
 
