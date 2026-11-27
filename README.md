@@ -12,10 +12,6 @@ Senior Associate Vulnerability Assessment Specialist at **NTT DATA, Inc.** with 
 ## Education
 - **Bachelor of Computer Applications (BCA)** — Indira Gandhi National Open University (IGNOU)
 
-## Connect
-- **LinkedIn:** [in/shubhajit-s](https://www.linkedin.com/in/shubhajit-s)
-
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
