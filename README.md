@@ -1,35 +1,19 @@
-# Welcome to My GitHub Profile! 👋
-
 ![](coder-3462295-2895977-1514738893.png)
 
-## Summary
+# Hi, I'm Shubhajit Saha 👋
 
-🌟 **IT Security Specialist** with over 9 years of experience in **Cybersecurity**, **Cloud Infrastructure**, and **System Administration**. Specialized in **Linux** with extensive experience exceeding 3 years each in **Cloud Platforms**, **Security Information and Event Management (SIEM)**, **Vulnerability Management**, and **Security**. Passionate about leveraging technology to enhance security and efficiency.
+Senior Associate Vulnerability Assessment Specialist at **NTT DATA, Inc.** with **12+ years** of experience across Linux/Windows system administration, cloud infrastructure, SIEM monitoring, and vulnerability management. Transitioning toward **AWS Cloud Security**, **SecOps**, and **Detection Engineering** from Dibrugarh, Assam, India (remote-ready).
 
-## Technology Domains
-
-### Cloud Platforms
- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
- ![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
-
-### Operating Systems & Administration
- ![Linux](https://img.icons8.com/color/48/000000/linux--v1.png)
- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
- ![macOS](https://img.icons8.com/color/48/000000/mac-os.png)
+## Core Focus & Technical Stack
+- **Cloud & Infrastructure Security:** AWS (IAM, VPC, Security Groups, EC2, S3, CloudTrail, GuardDuty, CloudWatch), CIS Benchmarks, Linux & Windows Hardening, Active Directory
+- **Monitoring, SIEM & Vulnerability Management:** Sumo Logic SIEM, Zabbix, Spiceworks, Qualys VMDR, risk prioritization & remediation workflows
+- **Hands-On Lab Portfolio:** Documenting practical cloud security, misconfiguration remediation, and detection notes from **TryHackMe MAX** (`Defending AWS` and upcoming defensive/SecOps tracks)
 
 ## Education
+- **Bachelor of Computer Applications (BCA)** — Indira Gandhi National Open University (IGNOU)
 
-- **Bachelor of Computer Applications (BCA)** - Indira Gandhi National Open University
-
-
-## Projects
-
-Check out my repositories to see my latest projects! [GitHub Repositories](#)
-
- ## Blog
-
-Read my articles and tutorials on [Hashnode](https://hashnode.com/). 
-
+## Connect
+- **LinkedIn:** [in/shubhajit-s](https://www.linkedin.com/in/shubhajit-s)
 
 
 ## Connect with Me
